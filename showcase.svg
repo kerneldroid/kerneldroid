@@ -1,0 +1,1106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="94" viewBox="0 0 1000 94" fill="none">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Google+Sans+Code:wght@400;600;700&amp;display=swap');
+        .track-wrapper { width:100%; overflow:hidden; background:transparent; display:flex; }
+        .track { display:flex; gap:16px; width:max-content; will-change:transform; animation:scroll 190.58s linear infinite; }
+        .track:hover { animation-play-state: paused; }
+        @keyframes scroll { 0% { transform:translate3d(0, 0, 0); } 100% { transform:translate3d(-14484px, 0, 0); } }
+      </style>
+      <div class="track-wrapper">
+        <div class="track">
+          
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 59);border:1px solid oklch(0.28 0.025 59 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 59);color:oklch(0.88 0.08 59);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 59);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Nightzuku</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 59);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Shizuku fork with Material 3 Expressive and Android SDK 37 updates</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 59);color:oklch(0.88 0.08 59);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            207
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 59);">Kotlin</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 189);border:1px solid oklch(0.28 0.025 189 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 189);color:oklch(0.88 0.08 189);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 189);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Nightzuku-private</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 189);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Shizuku fork. Rust, Kotlin. Supporting android 17.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 189);color:oklch(0.88 0.08 189);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            22
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 135);border:1px solid oklch(0.28 0.025 135 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 135);color:oklch(0.88 0.08 135);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 135);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/termux-kotlin</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 135);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Termux fork — full Kotlin + Jetpack Compose UI rewrite with TAPI/Nightzuku compatibility</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 135);color:oklch(0.88 0.08 135);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            14
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 135);">Kotlin</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 101);border:1px solid oklch(0.28 0.025 101 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 101);color:oklch(0.88 0.08 101);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 101);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/UPatch</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 101);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">APatch fork, many fixes and new features.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 101);color:oklch(0.88 0.08 101);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            13
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 101);">Kotlin</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 354);border:1px solid oklch(0.28 0.025 354 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 354);color:oklch(0.88 0.08 354);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 354);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/SetEditPlus</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 354);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Clean, fast, and current setedit implementation.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 354);color:oklch(0.88 0.08 354);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            12
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 354);">Kotlin</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 279);border:1px solid oklch(0.28 0.025 279 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 279);color:oklch(0.88 0.08 279);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 279);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/nightzuku-modules</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 279);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">ADB modules for Nightzuku catalog</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 279);color:oklch(0.88 0.08 279);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            11
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 279);">HTML</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 80);border:1px solid oklch(0.28 0.025 80 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 80);color:oklch(0.88 0.08 80);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 80);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Dsu-Extended</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 80);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Modern DSUS Fork with Material 3 Expressive and new features.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 80);color:oklch(0.88 0.08 80);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            8
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 80);">Kotlin</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 97);border:1px solid oklch(0.28 0.025 97 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 97);color:oklch(0.88 0.08 97);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 97);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/shevery-fork</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 97);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Shevery fork. Fixing issues and adding new features. After — changes go to the original Shevery.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 97);color:oklch(0.88 0.08 97);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            5
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 97);">Kotlin</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 272);border:1px solid oklch(0.28 0.025 272 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 272);color:oklch(0.88 0.08 272);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 272);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/NleSpam</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 272);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">An advanced Android application demonstrating Bluetooth Low Energy (BLE) advertising and scanning techniques.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 272);color:oklch(0.88 0.08 272);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            4
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 272);">Kotlin</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 165);border:1px solid oklch(0.28 0.025 165 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 165);color:oklch(0.88 0.08 165);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 165);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/termuxify</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 165);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">tool for termux customization</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 165);color:oklch(0.88 0.08 165);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            4
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 165);">Shell</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 299);border:1px solid oklch(0.28 0.025 299 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 299);color:oklch(0.88 0.08 299);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 299);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysv86/ai-triage-bot</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 299);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">AI Triage Bot — Gemini-powered GitHub Action that triages issues/PRs: labels, comments, duplicates, spam, moderation.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 299);color:oklch(0.88 0.08 299);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            2
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 90);border:1px solid oklch(0.28 0.025 90 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 90);color:oklch(0.88 0.08 90);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 90);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/kerneldroid.github.io</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 90);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 90);color:oklch(0.88 0.08 90);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            1
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 90);">HTML</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 227);border:1px solid oklch(0.28 0.025 227 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 227);color:oklch(0.88 0.08 227);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 227);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysv86/kromite</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 227);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Good skills for your AI Agents. Skills for Git, Design, Caveman-reasoning.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 227);color:oklch(0.88 0.08 227);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            1
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 227);">Shell</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 180);border:1px solid oklch(0.28 0.025 180 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 180);color:oklch(0.88 0.08 180);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 180);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysv86/material3ai</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 180);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Best tools for material 3 expressive for your AI Agents. Skill, MCP and useful scripts.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 180);color:oklch(0.88 0.08 180);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            1
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 180);">Go</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 167);border:1px solid oklch(0.28 0.025 167 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 167);color:oklch(0.88 0.08 167);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 167);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/kerneldroid</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 167);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 167);color:oklch(0.88 0.08 167);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 146);border:1px solid oklch(0.28 0.025 146 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 146);color:oklch(0.88 0.08 146);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 146);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/gh-api</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 146);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 146);color:oklch(0.88 0.08 146);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 146);">Svelte</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 268);border:1px solid oklch(0.28 0.025 268 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 268);color:oklch(0.88 0.08 268);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 268);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/mHSL</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 268);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">An good alternative for MCU. OkLab and Helmlab support.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 268);color:oklch(0.88 0.08 268);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 268);">Kotlin</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 283);border:1px solid oklch(0.28 0.025 283 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 283);color:oklch(0.88 0.08 283);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 283);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Landroid</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 283);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">A theme for Zed and NVChad, Inspired by Landroid Easter egg.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 283);color:oklch(0.88 0.08 283);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 283);">Lua</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 107);border:1px solid oklch(0.28 0.025 107 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 107);color:oklch(0.88 0.08 107);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 107);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/gh-stats</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 107);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">GitHub Downloads Stats </div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 107);color:oklch(0.88 0.08 107);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 107);">Svelte</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 175);border:1px solid oklch(0.28 0.025 175 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 175);color:oklch(0.88 0.08 175);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 175);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/SuperForgeRW</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 175);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Modern ro2rw alternative for china roms. Original by @lebigmac</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 175);color:oklch(0.88 0.08 175);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 175);">Shell</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 169);border:1px solid oklch(0.28 0.025 169 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 169);color:oklch(0.88 0.08 169);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 169);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/KernelSkills</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 169);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">My SKILL.md list. </div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 169);color:oklch(0.88 0.08 169);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 169);">Python</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 354);border:1px solid oklch(0.28 0.025 354 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 354);color:oklch(0.88 0.08 354);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 354);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/kpimg-upatch</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 354);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Rebranded KernelPatch 0.13.1 core for UPatch</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 354);color:oklch(0.88 0.08 354);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 354);">C</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 356);border:1px solid oklch(0.28 0.025 356 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 356);color:oklch(0.88 0.08 356);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 356);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/KernelPapers</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 356);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Wallpapers for my themes: Aethel, Luna, Tundra. 16:9 and 9:16.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 356);color:oklch(0.88 0.08 356);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 160);border:1px solid oklch(0.28 0.025 160 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 160);color:oklch(0.88 0.08 160);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 160);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Fineapple</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 160);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Reddit client. Material 3 expressive, AI. Fork of pineapple.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 160);color:oklch(0.88 0.08 160);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 82);border:1px solid oklch(0.28 0.025 82 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 82);color:oklch(0.88 0.08 82);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 82);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Thundra</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 82);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Everforest alternative. Designed to read and write code effortlessly.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 82);color:oklch(0.88 0.08 82);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 82);">Lua</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 57);border:1px solid oklch(0.28 0.025 57 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 57);color:oklch(0.88 0.08 57);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 57);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Aethel</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 57);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Gruvbox alternative. Created to save your eyes.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 57);color:oklch(0.88 0.08 57);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 57);">Lua</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 28);border:1px solid oklch(0.28 0.025 28 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 28);color:oklch(0.88 0.08 28);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 28);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Luna</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 28);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Just a good theme for your daily coding.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 28);color:oklch(0.88 0.08 28);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 28);">Lua</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 296);border:1px solid oklch(0.28 0.025 296 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 296);color:oklch(0.88 0.08 296);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 296);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Standard-Distribution-License</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 296);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Want a good License to your project? There is one right here. </div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 296);color:oklch(0.88 0.08 296);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 3);border:1px solid oklch(0.28 0.025 3 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 3);color:oklch(0.88 0.08 3);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 3);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysv86/gohunt</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 3);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 3);color:oklch(0.88 0.08 3);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 73);border:1px solid oklch(0.28 0.025 73 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 73);color:oklch(0.88 0.08 73);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 73);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysv86/droidhunt</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 73);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 73);color:oklch(0.88 0.08 73);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 43);border:1px solid oklch(0.28 0.025 43 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 43);color:oklch(0.88 0.08 43);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 43);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysv86/bountywiki</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 43);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 43);color:oklch(0.88 0.08 43);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 278);border:1px solid oklch(0.28 0.025 278 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 278);color:oklch(0.88 0.08 278);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 278);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysv86/gitcheck</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 278);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 278);color:oklch(0.88 0.08 278);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 177);border:1px solid oklch(0.28 0.025 177 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 177);color:oklch(0.88 0.08 177);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 177);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysv86/.github</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 177);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 177);color:oklch(0.88 0.08 177);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 86);border:1px solid oklch(0.28 0.025 86 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 86);color:oklch(0.88 0.08 86);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 86);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysrv64/ExtraApple</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 86);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 86);color:oklch(0.88 0.08 86);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 59);border:1px solid oklch(0.28 0.025 59 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 59);color:oklch(0.88 0.08 59);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 59);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Nightzuku</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 59);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Shizuku fork with Material 3 Expressive and Android SDK 37 updates</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 59);color:oklch(0.88 0.08 59);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            207
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 59);">Kotlin</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 189);border:1px solid oklch(0.28 0.025 189 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 189);color:oklch(0.88 0.08 189);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 189);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Nightzuku-private</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 189);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Shizuku fork. Rust, Kotlin. Supporting android 17.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 189);color:oklch(0.88 0.08 189);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            22
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 135);border:1px solid oklch(0.28 0.025 135 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 135);color:oklch(0.88 0.08 135);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 135);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/termux-kotlin</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 135);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Termux fork — full Kotlin + Jetpack Compose UI rewrite with TAPI/Nightzuku compatibility</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 135);color:oklch(0.88 0.08 135);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            14
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 135);">Kotlin</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 101);border:1px solid oklch(0.28 0.025 101 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 101);color:oklch(0.88 0.08 101);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 101);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/UPatch</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 101);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">APatch fork, many fixes and new features.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 101);color:oklch(0.88 0.08 101);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            13
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 101);">Kotlin</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 354);border:1px solid oklch(0.28 0.025 354 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 354);color:oklch(0.88 0.08 354);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 354);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/SetEditPlus</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 354);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Clean, fast, and current setedit implementation.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 354);color:oklch(0.88 0.08 354);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            12
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 354);">Kotlin</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 279);border:1px solid oklch(0.28 0.025 279 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 279);color:oklch(0.88 0.08 279);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 279);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/nightzuku-modules</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 279);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">ADB modules for Nightzuku catalog</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 279);color:oklch(0.88 0.08 279);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            11
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 279);">HTML</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 80);border:1px solid oklch(0.28 0.025 80 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 80);color:oklch(0.88 0.08 80);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 80);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Dsu-Extended</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 80);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Modern DSUS Fork with Material 3 Expressive and new features.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 80);color:oklch(0.88 0.08 80);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            8
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 80);">Kotlin</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 97);border:1px solid oklch(0.28 0.025 97 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 97);color:oklch(0.88 0.08 97);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 97);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/shevery-fork</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 97);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Shevery fork. Fixing issues and adding new features. After — changes go to the original Shevery.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 97);color:oklch(0.88 0.08 97);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            5
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 97);">Kotlin</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 272);border:1px solid oklch(0.28 0.025 272 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 272);color:oklch(0.88 0.08 272);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 272);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/NleSpam</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 272);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">An advanced Android application demonstrating Bluetooth Low Energy (BLE) advertising and scanning techniques.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 272);color:oklch(0.88 0.08 272);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            4
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 272);">Kotlin</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 165);border:1px solid oklch(0.28 0.025 165 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 165);color:oklch(0.88 0.08 165);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 165);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/termuxify</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 165);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">tool for termux customization</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 165);color:oklch(0.88 0.08 165);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            4
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 165);">Shell</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 299);border:1px solid oklch(0.28 0.025 299 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 299);color:oklch(0.88 0.08 299);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 299);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysv86/ai-triage-bot</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 299);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">AI Triage Bot — Gemini-powered GitHub Action that triages issues/PRs: labels, comments, duplicates, spam, moderation.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 299);color:oklch(0.88 0.08 299);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            2
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 90);border:1px solid oklch(0.28 0.025 90 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 90);color:oklch(0.88 0.08 90);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 90);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/kerneldroid.github.io</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 90);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 90);color:oklch(0.88 0.08 90);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            1
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 90);">HTML</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 227);border:1px solid oklch(0.28 0.025 227 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 227);color:oklch(0.88 0.08 227);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 227);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysv86/kromite</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 227);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Good skills for your AI Agents. Skills for Git, Design, Caveman-reasoning.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 227);color:oklch(0.88 0.08 227);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            1
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 227);">Shell</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 180);border:1px solid oklch(0.28 0.025 180 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 180);color:oklch(0.88 0.08 180);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 180);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysv86/material3ai</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 180);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Best tools for material 3 expressive for your AI Agents. Skill, MCP and useful scripts.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 180);color:oklch(0.88 0.08 180);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            1
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 180);">Go</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 167);border:1px solid oklch(0.28 0.025 167 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 167);color:oklch(0.88 0.08 167);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 167);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/kerneldroid</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 167);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 167);color:oklch(0.88 0.08 167);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 146);border:1px solid oklch(0.28 0.025 146 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 146);color:oklch(0.88 0.08 146);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 146);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/gh-api</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 146);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 146);color:oklch(0.88 0.08 146);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 146);">Svelte</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 268);border:1px solid oklch(0.28 0.025 268 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 268);color:oklch(0.88 0.08 268);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 268);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/mHSL</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 268);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">An good alternative for MCU. OkLab and Helmlab support.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 268);color:oklch(0.88 0.08 268);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 268);">Kotlin</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 283);border:1px solid oklch(0.28 0.025 283 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 283);color:oklch(0.88 0.08 283);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 283);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Landroid</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 283);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">A theme for Zed and NVChad, Inspired by Landroid Easter egg.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 283);color:oklch(0.88 0.08 283);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 283);">Lua</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 107);border:1px solid oklch(0.28 0.025 107 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 107);color:oklch(0.88 0.08 107);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 107);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/gh-stats</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 107);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">GitHub Downloads Stats </div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 107);color:oklch(0.88 0.08 107);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 107);">Svelte</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 175);border:1px solid oklch(0.28 0.025 175 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 175);color:oklch(0.88 0.08 175);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 175);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/SuperForgeRW</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 175);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Modern ro2rw alternative for china roms. Original by @lebigmac</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 175);color:oklch(0.88 0.08 175);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 175);">Shell</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 169);border:1px solid oklch(0.28 0.025 169 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 169);color:oklch(0.88 0.08 169);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 169);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/KernelSkills</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 169);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">My SKILL.md list. </div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 169);color:oklch(0.88 0.08 169);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 169);">Python</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 354);border:1px solid oklch(0.28 0.025 354 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 354);color:oklch(0.88 0.08 354);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 354);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/kpimg-upatch</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 354);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Rebranded KernelPatch 0.13.1 core for UPatch</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 354);color:oklch(0.88 0.08 354);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 354);">C</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 356);border:1px solid oklch(0.28 0.025 356 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 356);color:oklch(0.88 0.08 356);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 356);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/KernelPapers</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 356);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Wallpapers for my themes: Aethel, Luna, Tundra. 16:9 and 9:16.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 356);color:oklch(0.88 0.08 356);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 160);border:1px solid oklch(0.28 0.025 160 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 160);color:oklch(0.88 0.08 160);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 160);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Fineapple</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 160);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Reddit client. Material 3 expressive, AI. Fork of pineapple.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 160);color:oklch(0.88 0.08 160);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 82);border:1px solid oklch(0.28 0.025 82 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 82);color:oklch(0.88 0.08 82);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 82);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Thundra</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 82);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Everforest alternative. Designed to read and write code effortlessly.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 82);color:oklch(0.88 0.08 82);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 82);">Lua</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 57);border:1px solid oklch(0.28 0.025 57 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 57);color:oklch(0.88 0.08 57);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 57);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Aethel</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 57);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Gruvbox alternative. Created to save your eyes.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 57);color:oklch(0.88 0.08 57);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 57);">Lua</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 28);border:1px solid oklch(0.28 0.025 28 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 28);color:oklch(0.88 0.08 28);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 28);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Luna</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 28);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Just a good theme for your daily coding.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 28);color:oklch(0.88 0.08 28);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          <span style="font-size:11px;font-weight:500;color:oklch(0.74 0.02 28);">Lua</span>
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 296);border:1px solid oklch(0.28 0.025 296 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 296);color:oklch(0.88 0.08 296);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 296);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">kerneldroid/Standard-Distribution-License</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 296);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">Want a good License to your project? There is one right here. </div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 296);color:oklch(0.88 0.08 296);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 3);border:1px solid oklch(0.28 0.025 3 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 3);color:oklch(0.88 0.08 3);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 3);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysv86/gohunt</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 3);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 3);color:oklch(0.88 0.08 3);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 73);border:1px solid oklch(0.28 0.025 73 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 73);color:oklch(0.88 0.08 73);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 73);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysv86/droidhunt</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 73);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 73);color:oklch(0.88 0.08 73);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 43);border:1px solid oklch(0.28 0.025 43 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 43);color:oklch(0.88 0.08 43);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 43);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysv86/bountywiki</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 43);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 43);color:oklch(0.88 0.08 43);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 278);border:1px solid oklch(0.28 0.025 278 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 278);color:oklch(0.88 0.08 278);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 278);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysv86/gitcheck</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 278);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 278);color:oklch(0.88 0.08 278);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 177);border:1px solid oklch(0.28 0.025 177 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 177);color:oklch(0.88 0.08 177);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 177);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysv86/.github</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 177);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 177);color:oklch(0.88 0.08 177);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+      <div style="width:410px;min-width:410px;height:84px;background:oklch(0.17 0.015 86);border:1px solid oklch(0.28 0.025 86 / 0.7);border-radius:20px;padding:12px 16px;display:flex;align-items:center;gap:14px;box-sizing:border-box;font-family:'Google Sans Code',monospace;">
+        <div style="width:44px;height:44px;border-radius:12px;background:oklch(0.28 0.06 86);color:oklch(0.88 0.08 86);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <svg style="width:20px;height:20px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        </div>
+        <div style="display:flex;flex-direction:column;justify-content:center;gap:3px;min-width:0;flex-grow:1;">
+          <div style="font-size:13px;font-weight:700;color:oklch(0.94 0.01 86);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">sysrv64/ExtraApple</div>
+          <div style="font-size:11px;color:oklch(0.74 0.02 86);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2;">No description provided.</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <span style="background:oklch(0.28 0.06 86);color:oklch(0.88 0.08 86);border-radius:8px;padding:3px 8px;font-size:11px;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+            <svg style="width:12px;height:12px;fill:currentColor;" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            0
+          </span>
+          
+        </div>
+      </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
