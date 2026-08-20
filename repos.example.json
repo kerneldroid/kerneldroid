@@ -1,0 +1,8 @@
+[
+  { "name": "orbit-cli",      "stars": 412,  "language": "Rust",       "url": "https://github.com/you/orbit-cli" },
+  { "name": "quiet-signal",   "stars": 189,  "language": "TypeScript","url": "https://github.com/you/quiet-signal" },
+  { "name": "flux-router",    "stars": 731,  "language": "Go",        "url": "https://github.com/you/flux-router" },
+  { "name": "terra-notes",    "stars": 96,   "language": "Python",    "url": "https://github.com/you/terra-notes" },
+  { "name": "pale-blue-dot",  "stars": 1240, "language": "Kotlin",    "url": "https://github.com/you/pale-blue-dot" },
+  { "name": "night-shift",    "stars": 58,   "language": "Shell",     "url": "https://github.com/you/night-shift" }
+]

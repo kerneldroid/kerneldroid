@@ -1,0 +1,30 @@
+name: Update LandDroid SVG
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch: {}
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Regenerate landroid.svg
+        run: |
+          python3 src/generate_landroid_svg.py \
+            --username kerneldroid \
+            --limit 6 \
+            --min-stars 0 \
+            -o landroid.svg
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet landroid.svg || (git add landroid.svg && git commit -m "chore: refresh landroid.svg" && git push)
