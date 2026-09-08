@@ -1,2 +1,2 @@
 ![Landroid](./landroid.svg)
-[![Hits](https://hits.sh/github.com/kerneldroid.svg?label=kerneldroid&color=8d008d&labelColor=000000)](https://hits.sh/github.com/kerneldroid/)
+![Badge](https://hitscounter.dev/api/hit?url=github.com%2Fkerneldroid&label=viewers&icon=egg-fried&color=%234dd4ac&message=&style=plastic&tz=UTC)
