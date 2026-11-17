@@ -218,7 +218,7 @@
     <circle cx="823.8" cy="220.3" r="38.3" fill="none" stroke="#4285F4"
             stroke-width="5" opacity="0.18"/>
     <g>
-      <polygon points="873.1,220.3 868.8,240.3 856.8,256.9 839.0,267.2 818.6,269.3 799.1,263.0 783.8,249.3 775.5,230.5 775.5,210.0 783.8,191.3 799.1,177.5 818.6,171.2 839.0,173.3 856.8,183.6 868.8,200.2" fill="none" stroke="#4285F4" stroke-width="1.1" opacity="0.55"/>
+      <polygon points="873.1,220.3 868.8,240.3 856.8,256.9 839.0,267.2 818.6,269.3 799.1,263.0 783.8,249.2 775.5,230.5 775.5,210.0 783.8,191.3 799.1,177.5 818.6,171.2 839.0,173.3 856.8,183.6 868.8,200.2" fill="none" stroke="#4285F4" stroke-width="1.1" opacity="0.55"/>
       <animateTransform attributeName="transform" type="rotate" additive="sum"
                          from="0 823.8 220.3" to="360 823.8 220.3"
                          dur="10s" repeatCount="indefinite"/>
@@ -231,7 +231,7 @@
     <circle cx="863.5" cy="318.6" r="38.6" fill="none" stroke="#4285F4"
             stroke-width="5" opacity="0.18"/>
     <g>
-      <polygon points="913.2,318.6 908.9,338.8 896.8,355.5 878.9,365.8 858.4,368.0 838.7,361.6 823.4,347.8 815.0,328.9 815.0,308.3 823.4,289.4 838.7,275.6 858.4,269.2 878.9,271.4 896.8,281.7 908.9,298.4" fill="none" stroke="#4285F4" stroke-width="1.1" opacity="0.55"/>
+      <polygon points="913.2,318.6 908.9,338.8 896.8,355.5 878.9,365.8 858.4,368.0 838.7,361.6 823.4,347.8 815.0,328.9 815.0,308.3 823.4,289.4 838.7,275.6 858.4,269.3 878.9,271.4 896.8,281.7 908.9,298.4" fill="none" stroke="#4285F4" stroke-width="1.1" opacity="0.55"/>
       <animateTransform attributeName="transform" type="rotate" additive="sum"
                          from="0 863.5 318.6" to="360 863.5 318.6"
                          dur="10s" repeatCount="indefinite"/>
@@ -257,7 +257,7 @@
     <circle cx="230.3" cy="334.9" r="40.8" fill="none" stroke="#4285F4"
             stroke-width="5" opacity="0.18"/>
     <g>
-      <polygon points="282.0,334.9 277.6,356.0 264.9,373.4 246.3,384.2 224.8,386.4 204.4,379.8 188.4,365.4 179.6,345.7 179.6,324.2 188.4,304.5 204.4,290.1 224.8,283.4 246.3,285.7 264.9,296.5 277.6,313.9" fill="none" stroke="#4285F4" stroke-width="1.1" opacity="0.55"/>
+      <polygon points="282.1,334.9 277.6,356.0 264.9,373.4 246.3,384.2 224.8,386.5 204.4,379.8 188.3,365.4 179.6,345.7 179.6,324.2 188.3,304.5 204.4,290.1 224.8,283.4 246.3,285.7 264.9,296.4 277.6,313.9" fill="none" stroke="#4285F4" stroke-width="1.1" opacity="0.55"/>
       <animateTransform attributeName="transform" type="rotate" additive="sum"
                          from="0 230.3 334.9" to="360 230.3 334.9"
                          dur="10s" repeatCount="indefinite"/>
@@ -302,7 +302,7 @@
       <animate attributeName="opacity" dur="29.4s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0;0.00000;0.10746;1"/>
       <path d="M 803.2 215.9 a 14.7 6.5 0 1 0 32.3 1.5"
             fill="none" stroke="#A97BFF" stroke-width="1.5" opacity="0.55" clip-path="url(#clip1)"/>
-      <path d="M 814.9 234.9 a 10.3 5.3 286 1 1 22.0 2.9"
+      <path d="M 815.0 234.9 a 10.3 5.3 286 1 1 22.0 2.9"
             fill="none" stroke="#A97BFF" stroke-width="1.2" opacity="0.4" clip-path="url(#clip1)"/>
       <circle cx="823.8" cy="220.3" r="29.3" fill="none" stroke="#A97BFF" stroke-width="2"/>
     </g>
@@ -353,7 +353,7 @@
       <animate attributeName="opacity" dur="29.4s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0;0.47423;0.60401;1"/>
       <path d="M 208.0 330.2 a 15.9 7.0 0 1 0 35.0 1.6"
             fill="none" stroke="#A97BFF" stroke-width="1.6" opacity="0.55" clip-path="url(#clip4)"/>
-      <path d="M 220.7 350.8 a 11.1 5.7 261 1 1 23.8 3.2"
+      <path d="M 220.7 350.8 a 11.1 5.7 261 1 1 23.9 3.2"
             fill="none" stroke="#A97BFF" stroke-width="1.3" opacity="0.4" clip-path="url(#clip4)"/>
       <circle cx="230.3" cy="334.9" r="31.8" fill="none" stroke="#A97BFF" stroke-width="2"/>
     </g>
@@ -464,12 +464,12 @@
 
   <g font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" text-anchor="end">
     <text x="183.4" y="330.9" font-size="13" fill="#B7B7FF" font-weight="600">SetEditPlus</text>
-    <text x="183.4" y="348.9" font-size="10.5" fill="#A7A7CA">★ 66   Kotlin</text>
+    <text x="183.4" y="348.9" font-size="10.5" fill="#A7A7CA">★ 67   Kotlin</text>
   </g>
 
   <g font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" text-anchor="end">
     <text x="153.2" y="152.8" font-size="13" fill="#B7B7FF" font-weight="600">Nightzuku</text>
-    <text x="153.2" y="170.8" font-size="10.5" fill="#A7A7CA">★ 351   Kotlin</text>
+    <text x="153.2" y="170.8" font-size="10.5" fill="#A7A7CA">★ 353   Kotlin</text>
   </g>
   </g>
 
@@ -501,7 +501,7 @@
     </g>
   </g>
 
-  <g transform="translate(620.1 378.9) rotate(-59.0)" opacity="0">
+  <g transform="translate(620.1 379.0) rotate(-59.0)" opacity="0">
     <animate attributeName="opacity" dur="29.4s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0;0.42321;0.43521;1"/>
     <g>
       <animateTransform attributeName="transform" type="scale" additive="sum" dur="29.4s" repeatCount="indefinite" values="1;1;1.3;0.92;1;1" keyTimes="0;0.42321;0.44321;0.47321;0.50321;1"/>
